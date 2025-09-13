@@ -1,0 +1,7 @@
+# Ignores all pdf files (cv's)
+*.pdf
+
+# Ignores Python cache files
+__pycache__/
+*.py[cod]
+
